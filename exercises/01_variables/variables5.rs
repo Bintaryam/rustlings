@@ -6,3 +6,4 @@ fn main() {
     let number = 3;
     println!("Number plus two is: {}", number + 2);
 }
+// TESTING PART 2
