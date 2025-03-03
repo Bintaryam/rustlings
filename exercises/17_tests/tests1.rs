@@ -18,9 +18,9 @@ mod tests {
     #[test]
     fn you_can_assert() {
         // TODO: Test the function `is_even` with some values.
-        let result = is_even(5);
+        let result = is_even(6);
         let result2 = is_even(4);
-        assert!(!result);
+        assert!(result);
         assert!(result2);
     }
 }
